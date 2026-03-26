@@ -44,14 +44,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaijuGangaraj&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="trophies" />
-</div>
-
----
-
 ## 🛠 Skills
 
 ### Backend & API Development
@@ -476,19 +468,6 @@
 - 🔹 Improved **automation, reconciliation speed, reporting accuracy, and process efficiency**
 - 🔹 Worked on modern engineering practices with **Clean Architecture, SOLID, and TDD**
 - 🔹 Exploring **AI-integrated systems**, **cloud-native development**, and **Python backend services**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BaijuGangaraj&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaijuGangaraj&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaijuGangaraj&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
 
 ---
 
